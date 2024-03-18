@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.serch.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["33:89:F2:37:6B:30:54:FF:7D:55:0E:08:7B:9B:CA:06:AA:94:89:61:6C:81:6A:41:36:AC:5C:29:75:3E:84:2D"]
+    }
+  }]
+  
